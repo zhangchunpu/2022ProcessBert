@@ -1,0 +1,122 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0926337321008274</prism:url><dc:identifier>doi:10.1016/S0926-3373(21)00827-4</dc:identifier><eid>1-s2.0-S0926337321008274</eid><prism:doi>10.1016/S0926-3373(21)00827-4</prism:doi><pii>S0926-3373(21)00827-4</pii><dc:title>Editorial Board </dc:title><prism:publicationName>Applied Catalysis B: Environmental</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edb</pubType><prism:issn>09263373</prism:issn><prism:volume>298</prism:volume><prism:startingPage>120702</prism:startingPage><prism:pageRange>120702</prism:pageRange><articleNumber>120702</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-12-05</prism:coverDate><prism:coverDisplayDate>5 December 2021</prism:coverDisplayDate><prism:copyright/><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0926337321008274" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0926337321008274" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271347</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291809</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Applied Catalysis B: Environmental</xocs:srctitle>
+      <xocs:normalized-srctitle>APPLIEDCATALYSISBENVIRONMENTAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210910">2021-09-10</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210910">2021-09-10</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210910">2021-09-10</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210910">2021-09-10</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-09-30T04:52:16</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0926337321008274</xocs:eid>
+      <xocs:pii-formatted>S0926-3373(21)00827-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0926337321008274</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0926-3373(21)00827-4</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>CONTENTS-ENTRY-ONLY</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0926337321X00148</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210930">2021-09-30T04:10:45.852562Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20211205</xocs:date-search-begin>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1631236263">2021-09-10T01:11:03.566656Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articlenumber articletitlenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav articletitle</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0926-3373</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09263373</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>298</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>298</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 298</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>1</xocs:sort-order>
+      <xocs:first-fp>120702</xocs:first-fp>
+      <xocs:article-number>120702</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>120702</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20211205</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>5 December 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-12-05</xocs:cover-date-start>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edb</xocs:document-subtype>
+      <xocs:copyright-line/>
+      <xocs:normalized-article-title>EDITORIALBOARD</xocs:normalized-article-title>
+      <xocs:refkeys/>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2023-09-10T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2023-09-10T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0926-3373(21)00827-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0926337321008274</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0926337321008274</xocs:eid>
+         <xocs:doi>10.1016/S0926-3373(21)00827-4</xocs:doi>
+         <xocs:cid>271347</xocs:cid>
+         <xocs:timestamp>2021-09-30T04:10:45.852562Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-12-05</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0926337321008274-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0926337321008274/MAIN/application/pdf/83fe309e6d95440da2a74827ca1bb514/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>43481</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0926337321008274-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0926337321008274/PREVIEW/image/png/cd1fc9fb0451f140f34cb617b24fc031/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49064</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Editors Prof. M. Flytzani-Stephanopoulos Department of Chemical and   Biological Engineering Tufts University 4 Colby St. Medford, MA 02155 E-mail: mflytzan@tufts.edu Dr. R.W. McCabe National Science Foundation CBET 4201 Wilson Boulevard Arlington, VA, 22230, USA E-mail: bobmccabe03@gmail.com Prof. I.-S. Nam Department of Chemical Engineering  Pohang Univ. of Science & Technology Hyoja San 31 Nam-gu  Pohang, Republic of Korea E-mail: isnam@postech.ac.kr Prof. Hiromi Yamashita Division of Materials and Manufacturing Science  Graduate School of Engineering Osaka  University  2-1 Yamada-oka, Suita Osaka 565-0871 Japan E-mail: yamashita@mat.eng.osaka-u.ac.jp Prof. X. Verykios Dept. of Chemical Engineering University of Patras GR 26504 Patras Greece E-mail: verykios@rea.chemeng.upatras.gr Founding Editor Prof. B. Delmon, Louvain-la-Neuve, Belgium Editorial Board J.A. Anderson (Old Aberdeen, Scotland, UK)  E. Antolini (Genova, Italy) C.R. Apesteguia (Santa Fe, Argentina) M.A. Baltanas (INTEC, Santa Fe, Argentina) E. Brillas (Barcelona, Spain) H. de Lasa (London, Ontario, Canada) C. Descorme (Villeurbanne Cedex, France) D. Dionysiou (Cincinnati, Ohio, USA) D. Duprez (Poitiers, France) A.M. Efstathiou (Nicosia, Cyprus) K. Eguchi (Kyoto, Japan) W. Epling (Houston, Texas, USA) P. Falaras (Athen, Greece) R. Farrauto (Iselin, New Jersey, USA) E.M. Gaigneaux (Louvain, Belgium) W. Grunert  (Bochum, Germany) M Haneda (Tajimi, Gifu, Japan) S.B. Hong (Pohang, Gyeongbuk, South Korea) H. Idriss (Riyadh, Saudi Arabia) H. Kominami (Osaka, Japan) J. Li (Beijing, China) C.-J. Liu (Tianjin, China) A. Martinez Arias (Madrid, Spain) C. Martinez-Huitle (Natal, RN, Brazil) F. Meunier (Caen, France) K. Mori, PhD (Osaka, Japan) F.B. Noronha (Rio de Janeiro, Brazil) I. Nova (Milan, Italy) T. Ohno (Kitakyushu, Fukuoka, Japan) B. Ohtani (Sapporo, Japan) M.A. Oturan  (Marne-La-Vallee, France) U.S. Ozkan (Columbus, Ohio, USA) V.I. Parvulescu (Bucharest, Romania) J. PÃ©rez-RamÃ­rez (Zurich, Switzerland) S. Pillai (Sligo, Ireland) B. Subramaniam (Lawrence, Kansas, USA) V.R. Subramanian (Reno, Nevada, USA) S.L. Suib (Storrs, Connecticut, USA) A. Trovarelli (Udine, Italy) M Wong (Houston, Texas, USA) H. Yoshida (Kyoto, Japan) J. Zhang (Shanghai, China) L. Zhang (Wuhan, China) T. Zhang (Dalian, China) Processed at Thomson Digital, Gangtok (India) Dr. Adrian M.T Silva Faculdade de Engenharia  da Universidade do Porto Porto, Portugal E-mail: adrian@fe.up.pt Associate Editors T. An Guangzhou, China Prof. Hexing Li  Department of Chemistry   Shanghai Normal University   100 Guilin R Shanghai, China  E-mail: Hexing-li@shnu.edu.cn Prof. Yongfa Zhu Tsinghua University,   Beijing, China Email: zhuyf@tsinghua.edu.cn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="edb" version="5.6" xml:lang="en">
+         <item-info>
+            <jid>APCATB</jid>
+            <aid>120702</aid>
+            <ce:article-number>120702</ce:article-number>
+            <ce:pii>S0926-3373(21)00827-4</ce:pii>
+            <ce:doi>10.1016/S0926-3373(21)00827-4</ce:doi>
+            <ce:copyright type="free-of-copyright" year="2021"/>
+         </item-info>
+         <simple-head>
+            <ce:title id="title0010">Editorial Board</ce:title>
+         </simple-head>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

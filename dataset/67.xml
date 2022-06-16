@@ -1,0 +1,230 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0926337321007785</prism:url><dc:identifier>doi:10.1016/j.apcatb.2021.120653</dc:identifier><eid>1-s2.0-S0926337321007785</eid><prism:doi>10.1016/j.apcatb.2021.120653</prism:doi><pii>S0926-3373(21)00778-5</pii><dc:title>In Memoriam: Maria Flytzani-Stephanopoulos </dc:title><prism:publicationName>Applied Catalysis B: Environmental</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>edi</pubType><prism:issn>09263373</prism:issn><prism:volume>299</prism:volume><prism:startingPage>120653</prism:startingPage><prism:pageRange>120653</prism:pageRange><articleNumber>120653</articleNumber><dc:format>text/xml</dc:format><prism:coverDate>2021-12-15</prism:coverDate><prism:coverDisplayDate>15 December 2021</prism:coverDisplayDate><prism:copyright>© 2021 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Nam, In Sik</dc:creator><dc:creator>Verykios, Xenophon</dc:creator><dc:creator>Wong, Michael S.</dc:creator><dc:description/><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><link href="https://api.elsevier.com/content/article/pii/S0926337321007785" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0926337321007785" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271347</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291809</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Applied Catalysis B: Environmental</xocs:srctitle>
+      <xocs:normalized-srctitle>APPLIEDCATALYSISBENVIRONMENTAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20210821">2021-08-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20210821">2021-08-21</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20210828">2021-08-28</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20210828">2021-08-28</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2021-09-30T08:53:30</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0926337321007785</xocs:eid>
+      <xocs:pii-formatted>S0926-3373(21)00778-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0926337321007785</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.apcatb.2021.120653</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0926337321X0015X</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210930">2021-09-30T08:02:42.248506Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20211215</xocs:date-search-begin>
+      <xocs:year-nav>2021</xocs:year-nav>
+      <xocs:indexeddate epoch="1629557774">2021-08-21T14:56:14.11084Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articlenumber articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav body affil articletitle auth authfirstini authfull authlast</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0926-3373</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09263373</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>299</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>299</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 299</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>7</xocs:sort-order>
+      <xocs:first-fp>120653</xocs:first-fp>
+      <xocs:article-number>120653</xocs:article-number>
+      <xocs:pages>
+         <xocs:first-page>120653</xocs:first-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20211215</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 December 2021</xocs:cover-date-text>
+      <xocs:cover-date-start>2021-12-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2021</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>edi</xocs:document-subtype>
+      <xocs:copyright-line>© 2021 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>INMEMORIAMMARIAFLYTZANISTEPHANOPOULOS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NAM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>I</xocs:normalized-first-auth-initial>
+      <xocs:refkeys>
+         <xocs:refkey3>NAMX2021X120653</xocs:refkey3>
+         <xocs:refkey4ai>NAMX2021X120653XI</xocs:refkey4ai>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-embargo-opening-date>2023-08-28T00:00:00.000Z</xocs:or-embargo-opening-date>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2023-08-28T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2021 Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-08-21T08:33:10.578Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>NASA</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>NASA</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Aeronautics and Space Administration</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000104</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Tufts University</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Tufts University</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100008090</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>International Precious Metals Institute</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>National Science Foundation</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>NSF</xocs:funding-agency-acronym>
+            <xocs:funding-agency>National Science Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100000001</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>Maria held ten patents and published more than 180 scientific papers in international peer reviewed journals of very high impact, including Science and Nature. Some of the many awards bestowed on her include the G. Parravano Memorial Award for Excellence in Catalysis Research, a Space Act Award from NASA, a Career Advancement Award from the National Science Foundation, the Distinguished Scholar Award of Tufts University in 2007, and the Henry J. Albert Award from the International Precious Metals Institute in 2008. She was a co-recipient of the American Chemical Society (ACS) Catalysis Lectureship Award for the Advancement of Catalytic Science in 2019. She was a fellow of the American Association for the Advancement of Science and the American Institute of Chemical Engineers and, in 2014, she was elected to the National Academy of Engineering for "contributions to atomically dispersed heterogeneous metal catalysts for efficient production of fuels and chemicals." </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:third-party>
+         <xocs:third-party-status>0</xocs:third-party-status>
+      </xocs:third-party>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0926-3373(21)00778-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0926337321007785</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0926337321007785</xocs:eid>
+         <xocs:doi>10.1016/j.apcatb.2021.120653</xocs:doi>
+         <xocs:cid>271347</xocs:cid>
+         <xocs:timestamp>2021-09-30T08:02:42.248506Z</xocs:timestamp>
+         <xocs:cover-date-start>2021-12-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0926337321007785-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0926337321007785/MAIN/application/pdf/5b84f1da4c59b336880ca249d69f017e/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>231757</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>1</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0926337321007785-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0926337321007785/PREVIEW/image/png/532513cda0c4854fe48b6e4d1ae3a01b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>64144</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" xml:lang="en" docsubtype="edi">
+         <item-info>
+            <jid>APCATB</jid>
+            <aid>120653</aid>
+            <ce:article-number>120653</ce:article-number>
+            <ce:pii>S0926-3373(21)00778-5</ce:pii>
+            <ce:doi>10.1016/j.apcatb.2021.120653</ce:doi>
+            <ce:copyright type="unknown" year="2021"/>
+         </item-info>
+         <simple-head>
+            <ce:title id="tit0005">In Memoriam: Maria Flytzani-Stephanopoulos</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005" author-id="S0926337321007785-4857efe0b818aa8ff0105e0cd1ade9ae">
+                  <ce:given-name>In Sik</ce:given-name>
+                  <ce:surname>Nam</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0010" author-id="S0926337321007785-ad10980e0b05f5734ecfeb51f6ac243e">
+                  <ce:given-name>Xenophon</ce:given-name>
+                  <ce:surname>Verykios</ce:surname>
+                  <ce:cross-ref id="crf0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0015" author-id="S0926337321007785-c3f662108e36e2c52fca3aa202bd3be4">
+                  <ce:given-name>Michael S.</ce:given-name>
+                  <ce:surname>Wong</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005" affiliation-id="S0926337321007785-bed68a51922460742531fbe6aa288dff">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Pohang University of Science and Technology, Department of Chemical Engineering, Pohang, South Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Pohang University of Science and Technology, Department of Chemical Engineering</sa:organization>
+                     <sa:city>Pohang</sa:city>
+                     <sa:country>South Korea</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0005">Pohang University of Science and Technology, Department of Chemical Engineering, Pohang, South Korea</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010" affiliation-id="S0926337321007785-2d9916582713eae1cc2eb2e066f1152e">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>University of Patras, Department of Chemical Engineering, 26504 Patras, Greece</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>University of Patras, Department of Chemical Engineering</sa:organization>
+                     <sa:city>Patras</sa:city>
+                     <sa:postal-code>26504</sa:postal-code>
+                     <sa:country>Greece</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0010">University of Patras, Department of Chemical Engineering, 26504 Patras Greece</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015" affiliation-id="S0926337321007785-65a9a95776cc8a4f42a4f9bd7ebdaa4e">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Rice University, Department of Chemical and Biomolecular Engineering, 6100 Main St., Houston, TX 77005, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Rice University, Department of Chemical and Biomolecular Engineering</sa:organization>
+                     <sa:address-line>6100 Main St.</sa:address-line>
+                     <sa:city>Houston</sa:city>
+                     <sa:state>TX</sa:state>
+                     <sa:postal-code>77005</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0015">Rice University, Department of Chemical and Biomolecular Engineering, 6100 Main St., Houston, TX 77005 USA</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+         </simple-head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="par0005" view="all">Miretta was among the most prominent scholars and researchers in the field of heterogeneous catalysis, a distinguished teacher and mentor and long-term Editor of Applied Catalysis B: Environmental. Her life and career were rich and diverse: she was born and raised in Greece and attended elementary and high school in various cities of Greece, where her father served as an army officer. She did her undergraduate studies at the National Technical University of Athens (NTUA) after successful panhellenic University entry exams where she ranked second in her class. She graduated from NTUA in 1973 with a B.S. degree in Chemical Engineering and continued her graduate studies in the US, receiving her M.S. degree from the University of Florida (1975) and Ph.D. from the University of Minnesota (1978). She worked at NASA's Jet Propulsion Laboratory (JPL) as Senior Engineer and at MIT as Principal Research Associate and Visiting Professor between 1985−1994. She joined the faculty of the now-called Department Chemical and Biological Engineering at Tufts University as Associate Professor in 1994, becoming Full Professor in 1996. She was honored as Distinguished Professor and the Robert and Marcy Haber Endowed Professor in Energy Sustainability at Tufts University. Miretta’s career was enriched with international collaborations and contributions. She served as Visiting Professor at ETH Zurich (2006−07), Politecnico di Milano (2013−14) and Pierre et Marie Curie University (2014). She was also honored as Honorary Professor of Tianjin University (2016) and Beijing University of Chemical Technology (2017).</ce:para>
+               <ce:para id="par0010" view="all">Miretta is survived by her husband Gregory Stephanopoulos, the William Henry Dow Professor in Chemical Engineering at MIT, and her three children, Nicholas, Alexander and Rona-Elisa.</ce:para>
+               <ce:para id="par0015" view="all">In her long-lasting research and academic career, Miretta worked on fundamental and applied topics of heterogeneous catalysis, with emphasis on environmental catalysis, including hot gas desulfurization, water gas shift reaction, and oxidative conversion of methane to oxygenates. In all these fields she made pioneering contributions. However, her most important contribution is in the field of single atom catalysis, being one of the developers and pioneers in this field. Single atom catalysis is rapidly gaining significant importance in fundamental and applied science.</ce:para>
+               <ce:para id="par0020" view="all">Maria held ten patents and published more than 180 scientific papers in international peer reviewed journals of very high impact, including <ce:italic>Science</ce:italic> and <ce:italic>Nature</ce:italic>. Some of the many awards bestowed on her include the G. Parravano Memorial Award for Excellence in Catalysis Research, a Space Act Award from NASA, a Career Advancement Award from the National Science Foundation, the Distinguished Scholar Award of Tufts University in 2007, and the Henry J. Albert Award from the International Precious Metals Institute in 2008. She was a co-recipient of the American Chemical Society (ACS) Catalysis Lectureship Award for the Advancement of Catalytic Science in 2019. She was a fellow of the American Association for the Advancement of Science and of the American Institute of Chemical Engineers. In 2014, she was elected to the U.S. National Academy of Engineering for "contributions to atomically dispersed heterogeneous metal catalysts for efficient production of fuels and chemicals."</ce:para>
+               <ce:para id="par0025" view="all">Miretta was Editor of this Journal for almost two decades until her passing away. She was prominently responsible for its very impressive growth over the last decade, progressing from an IF of less than 3 to an IF of 16.68 today. Miretta’s role in this was instrumental and is globally recognized and appreciated. To the Editors of Applied Catalysis B: Environmental and to so many scientists around the world, she was a warm friend, valuable mentor, respected colleague, valuable collaborator, strong supporter, leader, and role model.</ce:para>
+               <ce:para id="par0030" view="all">The Editors, Associate Editors and Editorial Board of APCAT B present this special issue in memory of Maria Flytzani-Stephanopoulos and for celebrating her scientific achievements and impact. We thank her for leading and inspiring us with warmth and grace all these years. We are also thankful to so many who responded positively in submitting their excellent works, even when the world was turned upside down by the COVID-19 pandemic. In all, this special issue contains 46 articles, covering a large spectrum of the environmental catalysis field, particularly single-atom catalysts, metal-support interactions, energy transformations and CO<ce:inf loc="post">2</ce:inf> utilization, NO<ce:inf loc="post">x</ce:inf>, SO<ce:inf loc="post">x</ce:inf> and VOC. elimination and photocatalytic processes.</ce:para>
+            </ce:sections>
+         </body>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>
